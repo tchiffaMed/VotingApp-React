@@ -1,0 +1,53 @@
+body{
+  color: #818181;
+  background: #d33c40;
+  background: linear-gradient(to right, rgb(254, 254, 254), rgb(252, 245, 245));
+  font-family: 'Overpass', sans-serif;
+
+}
+
+.main img {
+  margin-right: 2rem;
+}
+
+h1{
+  text-align: center;
+}
+.club{
+  color: black;
+}
+p{
+  font-size: 20px;
+}
+.main{
+  font-size: 20px;
+}
+
+i:hover{
+color: blue;
+text-decoration: none; 
+
+}
+a:hover{
+  color: blue;
+  text-decoration: none; 
+  
+  }
+  img{
+    border-radius:80px ;
+    width: 120px;
+    height: 120px;
+  }
+.item{
+  display: flex;
+  margin: 10px;
+}
+.ui{
+  width: 40px;
+  height: 40px;
+}
+@media (min-width: 600px) {
+  .contain-table {
+    width: 100%;
+  }
+}
