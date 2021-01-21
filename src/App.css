@@ -5,7 +5,11 @@ body{
   font-family: 'Overpass', sans-serif;
 
 }
-
+.app{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
 .main img {
   margin-right: 2rem;
 }
